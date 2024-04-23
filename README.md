@@ -38,7 +38,7 @@ Welcome to RankUp Discord Bot! This bot is designed to manage roles and ranks wi
 
 1. **Installation**: Clone this repository to your local machine.
 
-2. **Configuration**: Modify the `config.json` file to include your Discord bot token and adjust any other settings.
+2. **Configuration**: Modify the Bot file until everythings works fine for you.
 
 3. **Dependencies**: Install necessary dependencies by running `npm install` in your terminal.
 
